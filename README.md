@@ -24,8 +24,8 @@ using modern web technologies.
 🚀 I'm actively seeking opportunities to collaborate on exciting projects <br> 
 that challenge me and allow me to apply and enhance my full-stack development skills.
 
-👀 Take a look at my repositories to see some of my work don't hesitate to reach out if you have any questions! 
-<br>📩 portfolio:  https://varmiguemunoz.vercel.app/ 
+👀 Take a look at my repositories to see some of my work <br> 
+don't hesitate to reach out if you have any questions! 📩 portfolio:  https://varmiguemunoz.vercel.app/ 
 
 
 
