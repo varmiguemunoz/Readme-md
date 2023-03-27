@@ -2,8 +2,8 @@
 
 👨‍💻 My focus is on full-stack development and I have experience with the following technologies:
 
-💻 HTML5,  
-🎨 CSS3, 
+💻 Html5, 
+🎨 Css3, 
 🚀 JavaScript, 
 🌟 Node.js,
 🚂 Express, 
