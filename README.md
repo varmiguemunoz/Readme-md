@@ -13,7 +13,7 @@
 🐬 MySQL, 
 🐘 PostgreSQL
 
-👨‍💼 I've worked on several projects both as a solo developer and as part of a team, and have experience in creating responsive and user-friendly web applications using modern web technologies.
+〶 I've worked on several projects both as a solo developer and as part of a team, and have experience in creating responsive and user-friendly web applications using modern web technologies.
 
 🚀 I'm actively seeking opportunities to collaborate on exciting projects that challenge me and allow me to apply and enhance my full-stack development skills.
 
