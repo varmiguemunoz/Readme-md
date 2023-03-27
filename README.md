@@ -7,12 +7,11 @@
 HTML5 💻
 CSS3 🎨
 JavaScript 🚀
-Python 🐍
 Node.js 🌟
 Express 🚂
 React ⚛️
 Next.js 🏎️
-Tailwind CSS 🌈
+Tailwind CSS 🐍
 MySQL 🐬
 PostgreSQL 🐘
 </details>
