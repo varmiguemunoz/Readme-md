@@ -18,7 +18,7 @@
 🚀 I'm actively seeking opportunities to collaborate on exciting projects that challenge me and allow me to apply and enhance my full-stack development skills.
 
 👀 Take a look at my repositories to see some of my work don't hesitate to reach out if you have any questions! 
-📩 portfolio:  https://varmiguemunoz.vercel.app/ 
+<br> </br> 📩 portfolio:  https://varmiguemunoz.vercel.app/ 
 
 
 
