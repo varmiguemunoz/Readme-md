@@ -4,15 +4,15 @@
 
 <ul> 
   <li>〄 Html5</li>
-  <li>🎨 Css3</li>
-  <li>🚀 JavaScript</li>
-  <li>🌟 Node.js</li>
-  <li>🚂 Express</li>
-   <li>⚛️ React</li>
-   <li>〠 Next.js</li>
-   <li>🐍 TailwindCSS</li>
-  <li>🐬 MySQL</li>
-  <li>🐘 PostgreSQL</li>
+  <li>〄 Css3</li>
+  <li>〄 JavaScript</li>
+  <li>〄 Node.js</li>
+  <li>〄 Express</li>
+  <li>〄 React</li>
+  <li>〄 Next.js</li>
+  <li>〄 TailwindCSS</li>
+  <li>〄 MySQL</li>
+  <li>〄 PostgreSQL</li>
  </ul>   
 
 
@@ -25,7 +25,7 @@ using modern web technologies.
 that challenge me and allow me to apply and enhance my full-stack development skills.
 
 👀 Take a look at my repositories to see some of my work <br> 
-don't hesitate to reach out if you have any questions! 📩 portfolio:  https://varmiguemunoz.vercel.app/ 
+don't hesitate to reach out if you have any questions! ✆ portfolio: https://varmiguemunoz.vercel.app/ 
 
 
 
