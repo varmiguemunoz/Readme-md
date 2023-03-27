@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm varmiguemunoz, a software engineering student 🎓 
+## Hey there! 👋 I'm varmiguemunoz, a software engineering student 🎓 
 ### who's passionate about learning and keeping up with emerging technologies.
 
 👨‍💻 My focus is on full-stack development and I have experience with the following technologies:
