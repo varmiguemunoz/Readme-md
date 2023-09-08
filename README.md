@@ -8,13 +8,13 @@ with more than 1 year of experience in web and mobile application development. <
 
 ### Frontend Mode 💥
 
-I am passionate about programming and I master front-end technologies such as React.js, Next.js and React Native as frameworks for both web and mobile projects. </br>
-I am proficient in JavaScript as my main language. I am familiar with styling libraries like Tailwind CSS and Material UI, I specialize in building frontend projects with TypeScript and GraphQL.
+I am passionate about programming and I master *frontend* technologies such as *React.js*, *Next.js* </br> and *React Native* as frameworks for both web and mobile projects. </br>
+I am proficient in *JavaScript as my main language*. I am familiar with styling libraries like Tailwind CSS and Material UI, I specialize in building frontend projects with *TypeScript and GraphQL*.
 
 ### Backend Mode 🔥
 
 *On the backend side*, I've worked with *Node.js* and *Java* to build RESTful APIs and GraphQL. </br> 
-I also have experience creating Docker containers, managing databases with MySQL and PostgreSQL, and implementing JWT-based authentication. </br> 
+I also have experience creating Docker containers, managing databases with MySQL </br> and PostgreSQL, and implementing JWT-based authentication. </br> 
 I am a big proponent of unit testing and have used Jest in several projects. </br> 
 
 ### No code 🌪️
