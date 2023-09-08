@@ -13,7 +13,7 @@ I am proficient in **JavaScript as my main language**. </br> I am familiar with 
 
 ### Backend Mode 🔥
 
-***On the backend side***, I've worked with **Node.js and Java*** to build RESTful APIs and GraphQL. </br> 
+**On the backend side**, I've worked with **Node.js and Java** to build RESTful APIs and GraphQL. </br> 
 I also have experience creating Docker containers, managing databases with MySQL </br> and PostgreSQL, and implementing JWT-based authentication. </br> 
 I am a big proponent of unit testing and have used Jest in several projects. </br> 
 
