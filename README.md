@@ -2,14 +2,14 @@
 
 <p>
 
-### About me 
+### Experience 🦥
 
-with more than 1 year of experience in web and mobile application development. </br> 
+with more than *1 year of experience* in web and mobile application development. </br> 
 
 ### Frontend Mode 💥
 
-I am passionate about programming and I master *frontend* technologies such as *React.js*, *Next.js* </br> and *React Native* as frameworks for both web and mobile projects. </br>
-I am proficient in *JavaScript as my main language*. I am familiar with styling libraries like Tailwind CSS and Material UI, I specialize in building frontend projects with *TypeScript and GraphQL*.
+I am passionate about programming and I master *frontend* technologies such as *React.js*, *Next.js* </br> and *React Native* as frameworks for both web and mobile projects.
+I am proficient in *JavaScript as my main language*. </br> I am familiar with styling libraries like Tailwind CSS and Material UI, I specialize in building frontend projects with *TypeScript and GraphQL*.
 
 ### Backend Mode 🔥
 
