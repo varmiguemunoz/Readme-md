@@ -4,7 +4,7 @@
 
 ### Experience 🦥
 
-with more than *1 year of experience* in web and mobile application development. </br> 
+With more than *1 year of experience* in web and mobile application development. </br> 
 
 ### Frontend Mode 💥
 
